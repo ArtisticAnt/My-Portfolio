@@ -247,11 +247,11 @@ export const experience: ExperienceType[] = [
     desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
   },
   {
-    role: 'Backend Developer',
-    company: 'Wapidu',
-    companyLogo: '/img/icons/common/wapidu.jpg',
-    date: 'Sept 2021',
-    desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
+    role: 'Mobile app Developer',
+    company: 'PRISMETRIC',
+    companyLogo: '/img/icons/common/prismetric.jpg',
+    date: 'Sept 2020 – Present',
+    desc: "As a Mobile App Developer at PRISMETRIC, I developed high-quality apps for both Android and iOS platforms. I used my skills in React Native, Kotlin, and Flutter to ensure the app was of the highest quality and met all necessary standards. I collaborated closely with the development team to deliver a polished app that met the client's expectations.",
   },
 ];
 
