@@ -1,0 +1,8 @@
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+.alert {
+  background-color:DodgerBlue;
+  font-size: medium;
+}
