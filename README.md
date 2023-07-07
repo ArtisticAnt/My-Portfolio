@@ -3,6 +3,11 @@
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
+<p align="center">
+  <kbd>
+    <img src=""></img>
+  </kbd>
+</p>
 
 ## To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
 
@@ -13,6 +18,7 @@ But if you want to **contribute** and make this much better for other developer 
 If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
 
 ## Sections
+
 
 ## Getting Started
 
