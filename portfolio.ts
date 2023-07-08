@@ -250,7 +250,7 @@ export const experience: ExperienceType[] = [
     role: 'Mobile app Developer',
     company: 'PRISMETRIC',
     companyLogo: '/img/icons/common/prismetric.jpg',
-    date: 'Sept 2020 – Present',
+    date: 'Sept 2020 – March 2022',
     desc: "As a Mobile App Developer at PRISMETRIC, I developed high-quality apps for both Android and iOS platforms. I used my skills in React Native, Kotlin, and Flutter to ensure the app was of the highest quality and met all necessary standards. I collaborated closely with the development team to deliver a polished app that met the client's expectations.",
   },
 ];
